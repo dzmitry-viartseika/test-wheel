@@ -1,0 +1,62 @@
+.prize {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1919px;
+  height: 1079px;
+  z-index: 453;
+}
+.Congratulations_ {
+  font-size: 109.287px;
+  font-family: "LuckiestGuyRUS";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.31276452648349,0,0,0.43260887775286,0,0);
+  -webkit-transform: matrix( 0.31276452648349,0,0,0.43260887775286,0,0);
+  -ms-transform: matrix( 0.31276452648349,0,0,0.43260887775286,0,0);
+  position: absolute;
+  left: 458.403px;
+  top: 314.928px;
+  z-index: 452;
+}
+.to_get_the_prize {
+  font-size: 56px;
+  font-family: "PFIsotextPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  -webkit-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  -ms-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  position: absolute;
+  left: 754.444px;
+  top: 468.461px;
+  z-index: 451;
+}
+.YOU_WON_370_FREESPINS_ {
+  font-size: 56px;
+  font-family: "PFIsotextPro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: center;
+  -moz-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  -webkit-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  -ms-transform: matrix( 0.42934508812474,0,0,0.42934508812474,0,0);
+  position: absolute;
+  left: 657.823px;
+  top: 436.461px;
+  z-index: 450;
+}
+.Группа_11_копия {
+  background-image: url("Группа 11 копия.png");
+  position: absolute;
+  left: 741px;
+  top: 340px;
+  width: 439px;
+  height: 89px;
+  z-index: 445;
+}
